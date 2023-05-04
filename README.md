@@ -25,8 +25,8 @@
 
 <style> 
 img{
-  width:40;
-  height:30;
+  width:40px;
+  height:30px;
   align:center;
 
 }
