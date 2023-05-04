@@ -1,6 +1,6 @@
 - Hi, I’m Eduardo Antero
 - I'm a Software Engineering student
-- Learning Mobile Development in Flutter and Kotlin
+- Learning Mobile Development in Flutter and Cloud Computing
 
 <div align="center">
   <a href="https://github.com/duduantero">
