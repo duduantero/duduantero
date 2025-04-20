@@ -1,6 +1,5 @@
-- Hi, I’m Eduardo Antero
-- I'm a Software Engineering student
-- Learning 
+Hi, I’m Eduardo Antero.
+I’m a Software Engineering student, currently learning about Software Testing
 
 <div align="center">
   <a href="https://github.com/duduantero">
