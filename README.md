@@ -10,8 +10,8 @@ Analista de Qualidade focado em garantir a integridade de sistemas através de t
 ### 🛠️ Tecnologias e Ferramentas
 
 - **QA & Testes:** Plano de Testes, Casos de Teste, Gherkin, Testes de Caixa Preta e Branca.
-- **Automação & Ferramentas:** Cypress, Postman (API), Selenium.
-- **Desenvolvimento** Javascript, Java.
+- **Automação & Ferramentas:** Cypress, Postman (API).
+- **Desenvolvimento** Javascript.
 - **Dados & Infra:** SQL , Docker, Git.
 - **Gestão & Agilidade:** Jira, Kanban, Scrum.
 
