@@ -15,7 +15,7 @@ Analista de Qualidade focado em garantir a integridade de sistemas através de t
 - **Dados & Infra:** SQL , Docker, Git.
 - **Gestão & Agilidade:** Jira, Kanban, Scrum.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duduantero&layout=compact&theme=vision-friendly-dark)
+![Metrics](https://github.com/duduantero/duduantero/blob/main/github-metrics.svg)
 
 ---
 
