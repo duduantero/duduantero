@@ -14,7 +14,7 @@
 
 ###  💼 Resumo Profissional
 
-- Graduado em Engenharia de Software, com pós em 
+- Graduado em Engenharia de Software, com pós em Automação de Teste de Software
 ---
 
 ### 💻 Experiência Profissional
@@ -24,7 +24,7 @@
     <details>
       <summary>Atividades Realizadas</summary>
     
-      - Trabalhei junto ao time de desenvolvimento GETIC/SFIEC, na verificação e validação de funcionalidades, utilizando metodologias ágeis como, SCRUM e Kanban, em projetos de sistemas com contextos em educação, saúde, financeiro e ecommerce;
+      - Trabalhei junto ao time de desenvolvimento na verificação e validação de funcionalidades, utilizando metodologias ágeis como, SCRUM e Kanban, em projetos de sistemas com contextos em fiscalização;
       - Documentei planos de testes, cenários e casos de teste, e relatórios de teste;
       - Executei testes, com foco na camada E2E, manuais (funcional, regressivo, exploratório e smoke test) e, quando possível, automatizados usando Cypress e Robotframework;
       - Executei de testes em APIs com o Postman;
